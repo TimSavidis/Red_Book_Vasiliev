@@ -2,7 +2,7 @@ using System;
 using Microsoft.VisualBasic;
 using System.Windows.Forms;
 
-
+/*
 //Пример окна с полем ввода 
 
 using Microsoft.VisualBasic;
@@ -24,7 +24,7 @@ class InputDialogDemo
         MessageBox.Show(txt, "Знaкoмcтвo состоялось");
     }
 }
-
+*/
 
 // Пример считывания чисел
 /*
