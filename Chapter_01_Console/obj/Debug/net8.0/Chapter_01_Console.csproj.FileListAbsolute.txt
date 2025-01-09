@@ -12,3 +12,4 @@ C:\Users\Артем\RiderProjects\Red_Book_Vasiliev\Chapter_01_Console\obj\Debug
 C:\Users\Артем\RiderProjects\Red_Book_Vasiliev\Chapter_01_Console\obj\Debug\net8.0\Chapter_01_Console.pdb
 C:\Users\Артем\RiderProjects\Red_Book_Vasiliev\Chapter_01_Console\obj\Debug\net8.0\Chapter_01_Console.genruntimeconfig.cache
 C:\Users\Артем\RiderProjects\Red_Book_Vasiliev\Chapter_01_Console\obj\Debug\net8.0\ref\Chapter_01_Console.dll
+C:\Users\Артем\RiderProjects\Red_Book_Vasiliev\Chapter_01_Console\obj\Debug\net8.0\Chapter_01_Console.sourcelink.json
