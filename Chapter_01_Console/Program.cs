@@ -1,4 +1,4 @@
-﻿using System;
+﻿//using System;
 
 // Пример консольного ввода
 /*class InputConsoleDemo
