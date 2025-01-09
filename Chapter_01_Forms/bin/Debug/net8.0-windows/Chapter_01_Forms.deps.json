@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Chapter_01_Forms/1.0.0": {
+        "runtime": {
+          "Chapter_01_Forms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chapter_01_Forms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

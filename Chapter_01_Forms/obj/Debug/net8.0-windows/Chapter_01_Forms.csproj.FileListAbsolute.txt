@@ -1,0 +1,14 @@
+C:\Users\Артем\RiderProjects\Red_Book_Vasiliev\Chapter_01_Forms\bin\Debug\net8.0-windows\Chapter_01_Forms.exe
+C:\Users\Артем\RiderProjects\Red_Book_Vasiliev\Chapter_01_Forms\bin\Debug\net8.0-windows\Chapter_01_Forms.deps.json
+C:\Users\Артем\RiderProjects\Red_Book_Vasiliev\Chapter_01_Forms\bin\Debug\net8.0-windows\Chapter_01_Forms.runtimeconfig.json
+C:\Users\Артем\RiderProjects\Red_Book_Vasiliev\Chapter_01_Forms\bin\Debug\net8.0-windows\Chapter_01_Forms.dll
+C:\Users\Артем\RiderProjects\Red_Book_Vasiliev\Chapter_01_Forms\bin\Debug\net8.0-windows\Chapter_01_Forms.pdb
+C:\Users\Артем\RiderProjects\Red_Book_Vasiliev\Chapter_01_Forms\obj\Debug\net8.0-windows\Chapter_01_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\RiderProjects\Red_Book_Vasiliev\Chapter_01_Forms\obj\Debug\net8.0-windows\Chapter_01_Forms.AssemblyInfoInputs.cache
+C:\Users\Артем\RiderProjects\Red_Book_Vasiliev\Chapter_01_Forms\obj\Debug\net8.0-windows\Chapter_01_Forms.AssemblyInfo.cs
+C:\Users\Артем\RiderProjects\Red_Book_Vasiliev\Chapter_01_Forms\obj\Debug\net8.0-windows\Chapter_01_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Артем\RiderProjects\Red_Book_Vasiliev\Chapter_01_Forms\obj\Debug\net8.0-windows\Chapter_01_Forms.dll
+C:\Users\Артем\RiderProjects\Red_Book_Vasiliev\Chapter_01_Forms\obj\Debug\net8.0-windows\refint\Chapter_01_Forms.dll
+C:\Users\Артем\RiderProjects\Red_Book_Vasiliev\Chapter_01_Forms\obj\Debug\net8.0-windows\Chapter_01_Forms.pdb
+C:\Users\Артем\RiderProjects\Red_Book_Vasiliev\Chapter_01_Forms\obj\Debug\net8.0-windows\Chapter_01_Forms.genruntimeconfig.cache
+C:\Users\Артем\RiderProjects\Red_Book_Vasiliev\Chapter_01_Forms\obj\Debug\net8.0-windows\ref\Chapter_01_Forms.dll
